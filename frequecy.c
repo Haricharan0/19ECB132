@@ -55,3 +55,17 @@ int main()
 
     return 0;
 }
+
+Enter size of array: 5
+Enter elements in array: 5
+1
+2
+3
+4
+
+Frequency of all elements of array : 
+5 occurs 1 times
+1 occurs 1 times
+2 occurs 1 times
+3 occurs 1 times
+4 occurs 1 times
