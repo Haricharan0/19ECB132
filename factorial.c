@@ -11,3 +11,5 @@ int main()
 	 printf("%d",s);
 }
 
+enter a value 5
+120
