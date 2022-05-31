@@ -10,3 +10,4 @@ int main(void) {
       number_of_letters++;
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
+}
