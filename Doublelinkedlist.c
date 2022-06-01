@@ -242,7 +242,8 @@ void search()
     }          
 }  
 
-
+/*
+  output
 1.Insert in Beginning
 2.Insert at last
 3.Delete from Beginning
@@ -259,3 +260,4 @@ Enter Item value 2
 Node inserted
 
 *********Main Menu*********
+  /*
