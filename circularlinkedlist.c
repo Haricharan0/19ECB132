@@ -89,6 +89,8 @@ void main() {
    printList();   
 }
 
+/*
+  output
 Original List: 
 [ (6,56) (5,40) (4,1) (3,30) (2,20)  ]
 Deleted value:(6,56) 
@@ -98,3 +100,4 @@ Deleted value:(3,30)
 Deleted value:(2,20) 
 Deleted value:(1,10) 
 List after deleting all items: 
+/*
