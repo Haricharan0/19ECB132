@@ -10,6 +10,8 @@ int main()
 	 }
 	 printf("%d",s);
 }
-
+/*
+  output
 enter a value 5
 120
+  /*
