@@ -56,6 +56,8 @@ int main()
     return 0;
 }
 
+/*
+  output
 Enter size of array: 5
 Enter elements in array: 5
 1
@@ -69,3 +71,4 @@ Frequency of all elements of array :
 2 occurs 1 times
 3 occurs 1 times
 4 occurs 1 times
+/*
