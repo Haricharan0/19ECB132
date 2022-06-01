@@ -8,7 +8,6 @@
 [doublylinkedlist.c](doublylinkedlist.c)   
 [febonacciseries.c](febonacciseries.c)   
 [insertionsort.c](insertionsort.c)   
-[lettercount.c](lettercount.c)  
 [linkedlist.c](linkedlist.c)   
 [singlelinkedlist.c](singlelinkedlist.c)   
 [Reverselinkedlist.c](Reverselinkedlist.c)   
