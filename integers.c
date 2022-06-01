@@ -8,7 +8,8 @@ int main() {
   }
   return 0;
 }
-
+/*
+  output
 Enter an integer: 5
 5 * 1 = 5 
 5 * 2 = 10 
@@ -20,3 +21,4 @@ Enter an integer: 5
 5 * 8 = 40 
 5 * 9 = 45 
 5 * 10 = 50 
+/*
