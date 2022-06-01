@@ -18,5 +18,5 @@
 [middlelinkedlist.c](middlelinkedlist.c)   
 [biggestvalue.c](biggestvalue.c)      
 [leapyear.c](leapyear.c)    
-[bitwise.c](bitwise.c)
-[bitwiseor.c](bitwiseor.c)
+[bitwise.c](bitwise.c)     
+[bitwiseor.c](bitwiseor.c)    
