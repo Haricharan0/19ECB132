@@ -133,6 +133,8 @@ int main(void) {
   }
 }
 
+/*
+  output
 1. Stack using Array
 2. Queue using Array
 3. Stack using Linked List
@@ -146,3 +148,4 @@ int main(void) {
  Choose an option: 1
 
 Enter the element to be pushed to the stack: 4
+  /*
