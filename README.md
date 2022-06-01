@@ -20,3 +20,5 @@
 [leapyear.c](leapyear.c)    
 [bitwise.c](bitwise.c)     
 [bitwiseor.c](bitwiseor.c)    
+[workinglongkeyword.c](workinglongkeyword.c)    
+[relationalopr.c](relationalopr.c)   
